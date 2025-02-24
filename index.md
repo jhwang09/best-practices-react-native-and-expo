@@ -7,7 +7,7 @@ This document outlines the best practices for developing a React (and React Nati
 - [Code Style and Structure](#code-style-and-structure)
 - [Naming Conventions](#naming-conventions)
 - [JavaScript Usage](#javascript-usage)
-- [TypeScript Usage](#typescript-usage)
+- [TypeScript Usage (Preferred)](#typescript-usage-preferred)
 - [Performance Optimization](#performance-optimization)
 - [UI and Styling](#ui-and-styling)
 - [Testing](#testing)

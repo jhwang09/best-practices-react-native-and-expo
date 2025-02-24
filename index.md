@@ -31,6 +31,8 @@ This document outlines the best practices for developing a React (and React Nati
 - **Components:** Use PascalCase for component names (e.g., `UserProfile`, `ChatScreen`).
 - **Directories:** Use lowercase and hyphenated names for directories and file names (e.g., `user-profile`, `chat-screen`) to ensure consistency across the project.
 
+[Example](naming-conventions.md)
+
 ## JavaScript Usage
 
 - **Avoid Global Variables:** Minimize the use of global variables to prevent unintended side effects and maintain clean code.
